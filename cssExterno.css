@@ -1,0 +1,27 @@
+
+.a{
+    width: 50vw;
+    height: 87vh;
+    background-color: #000;
+}
+.b{
+    width: 99vw;
+    height: 40vh;
+    background-color: rgb(225, 0, 255);
+}
+.c{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+    font-weight: 900;
+    margin: 0;
+}
+.d{
+    width: 99vw;
+    height: 100px;
+    background-color: chartreuse;
+}
+.e{
+    width: 50vw;
+    height: 95px;
+    background-color: rgb(255, 0, 0);
+}
